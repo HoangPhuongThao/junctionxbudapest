@@ -34,8 +34,6 @@ def extract():
 
     profile = {}
 
-
-
     #GENERAL
     general_properties = {
         "fullName": "",
@@ -103,6 +101,8 @@ def extract():
                 "keyPhrases": key_phrases
             })
 
+
+    #SKILLS
     profile["skills"] = []
     profile["skills"].append(parsed_json["skills"])
 
