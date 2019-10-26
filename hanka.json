@@ -1,0 +1,118 @@
+{
+  "general": {
+    "imgUrl": "https://media.licdn.com/dms/image/C4D03AQG7OiaYqv9z0Q/profile-displayphoto-shrink_100_100/0?e=1577318400&v=beta&t=EGFgAWu8JDDQuLIt0Yy36j2QMQ8FPh1tVMy6Y6T_wN4",
+    "fullName": "Phuong Thao Hoang",
+    "headline": "Student at KU Leuven in Belgium",
+    "location": "Leuven, Flanders, Belgium",
+    "connections": "119 connections",
+    "profileUrl": "https://www.linkedin.com/in/phuong-thao-hoang-3701a7167/",
+    "connectionDegree": "3rd",
+    "vmid": "ACoAACe3l0QBQN3jAPGcmCw57T0pOdE1dCSjiiI",
+    "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACe3l0QBQN3jAPGcmCw57T0pOdE1dCSjiiI,name",
+    "description": "Hello,my name is Thao but friends call me Hanka. I am pursuing a master's degree in applied mathematics at the Charles University in Prague, Department of Mathematics and Physics. I am a huge technology enthusiast, especially when it comes to machine learning and AI. I am constantly looking for ways how to apply my mathematical knowledge in these domains. In my free time I do martial arts, travel and hang out with my friends.",
+    "connectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH",
+    "firstName": "Phuong",
+    "lastName": "Thao Hoang"
+  },
+  "jobs": [
+    {
+      "companyName": "Blindspot Solutions",
+      "companyUrl": "https://www.linkedin.com/company/blindspot-solutions/",
+      "jobTitle": "Software Engineer Intern",
+      "dateRange": "Sep 2018 – Jul 2019",
+      "location": "Prague, The Capital, Czech Republic",
+      "description": "- implementing functionality for handling exchange of data between various web services via Python backend frameworks\n- fixing bugs and writing unit tests to increase code coverage and stability of team’s project\n- using Javascript frameworks to enhance the user interface of our product\n- using Google’s Dialogflow framework and NLP toolkits for creating a chatbot which serves as a convenient question and answer help tool for the users of our main web application\n- using Firebase and Reactjs to develop a tv dashboard"
+    }
+  ],
+  "schools": [
+    {
+      "schoolUrl": "https://www.linkedin.com/school/10410/?legacySchoolId=10410",
+      "schoolName": "KU Leuven",
+      "degree": "Erasmus",
+      "degreeSpec": "Computational and Applied Mathematics",
+      "dateRange": "2019 – 2020",
+      "description": "Enjoying my study-abroad year at Belgium's top tech university. I am building on top of my mathematical foundations with courses focused on Machine Learning and Artificial Intelligence."
+    },
+    {
+      "schoolUrl": "https://www.linkedin.com/school/11709/?legacySchoolId=11709",
+      "schoolName": "Charles University in Prague",
+      "degree": "Master's degree",
+      "degreeSpec": "Numerical Mathematics",
+      "dateRange": "2018 – 2020",
+      "description": "Focused in numerically solving partial differential equations and systems of linear equations."
+    },
+    {
+      "schoolUrl": "https://www.linkedin.com/school/11709/?legacySchoolId=11709",
+      "schoolName": "Charles University in Prague",
+      "degree": "Bachelor's degree",
+      "degreeSpec": "Mathematics",
+      "dateRange": "2015 – 2018",
+      "description": "General mathematics with focus on numerical math and mathematical modelling."
+    }
+  ],
+  "details": {
+    "linkedinProfile": "https://www.linkedin.com/in/phuong-thao-hoang-3701a7167",
+    "birthday": "February 3",
+    "mail": "thaohanicka@seznam.cz"
+  },
+  "skills": [
+    {
+      "name": "Python",
+      "endorsements": "3"
+    },
+    {
+      "name": "Numerical Analysis",
+      "endorsements": "3"
+    },
+    {
+      "name": "Math",
+      "endorsements": "3"
+    },
+    {
+      "name": "Machine Learning",
+      "endorsements": "1"
+    },
+    {
+      "name": "Mathematical Modeling",
+      "endorsements": "1"
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "endorsements": "0"
+    },
+    {
+      "name": "C++",
+      "endorsements": "1"
+    },
+    {
+      "name": "Java",
+      "endorsements": "1"
+    },
+    {
+      "name": "Microsoft Office",
+      "endorsements": "0"
+    },
+    {
+      "name": "C",
+      "endorsements": "0"
+    },
+    {
+      "name": "C#",
+      "endorsements": "0"
+    },
+    {
+      "name": "Teaching",
+      "endorsements": "0"
+    },
+    {
+      "name": "Public Speaking",
+      "endorsements": "0"
+    },
+    {
+      "name": "Linear Algebra",
+      "endorsements": "1"
+    }
+  ],
+  "allSkills": "Python, Numerical Analysis, Math, Machine Learning, Mathematical Modeling, Object-Oriented Programming (OOP), C++, Java, Microsoft Office, C, C#, Teaching, Public Speaking, Linear Algebra",
+  "query": "https://www.linkedin.com/in/phuong-thao-hoang-3701a7167/"
+}

@@ -1,0 +1,218 @@
+{
+  "general": {
+    "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "fullName": "Yuri Z.",
+    "headline": "macOS System Software Engineer",
+    "company": "Contractor",
+    "location": "Ukraine",
+    "connections": "58 connections",
+    "profileUrl": "https://www.linkedin.com/in/yuri-z-aa182781/#",
+    "connectionDegree": "3rd",
+    "vmid": "ACoAABFix1kBe0UDAchnO6sPBInbIPxFxbVECjw",
+    "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABFix1kBe0UDAchnO6sPBInbIPxFxbVECjw,name",
+    "description": "Mac OS X and iOS Developer with over 8 years of experience.",
+    "firstName": "Yuri",
+    "lastName": "Z."
+  },
+  "jobs": [
+    {
+      "companyName": "Contractor",
+      "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Contractor",
+      "jobTitle": "Contractor",
+      "dateRange": "Jan 2010 – Present",
+      "location": null,
+      "description": "Network drivers, USB and Bluetooth device drivers for OS X and Windows, OS X and\n      Windows desktop applications, iOS apps, video playback and editing apps, printer\n      drivers for OS X, distributed (client-server) applications development, UI design, OS X\n      apps' plugins (reverse engineering of the undocumented APIs), Audio Units, Antivirus\n      \n      Software (active protection mechanism)."
+    },
+    {
+      "companyName": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple/",
+      "jobTitle": "Software Engineer",
+      "dateRange": "Jan 2018 – Jun 2019",
+      "location": "Prague, The Capital, Czech Republic",
+      "description": "Visual Experience (Core OS)"
+    },
+    {
+      "companyName": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple/",
+      "jobTitle": "Software Engineering Intern",
+      "dateRange": "Jun 2013 – Sep 2013",
+      "location": "San Francisco Bay Area",
+      "description": "Networking. The project was selected and presented to Apple Senior Vice President,\n      \n      Software."
+    }
+  ],
+  "schools": [
+    {
+      "schoolUrl": "https://www.linkedin.com/school/17627/?legacySchoolId=17627",
+      "schoolName": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'​",
+      "degree": "Master's degree",
+      "degreeSpec": "Computational and Applied Mathematics"
+    }
+  ],
+  "details": {
+    "linkedinProfile": "https://www.linkedin.com/in/yuri-z-aa182781"
+  },
+  "skills": [
+    {
+      "name": "C++",
+      "endorsements": "0"
+    },
+    {
+      "name": "C",
+      "endorsements": "0"
+    },
+    {
+      "name": "Objective-C",
+      "endorsements": "0"
+    },
+    {
+      "name": "Distributed Systems",
+      "endorsements": "0"
+    },
+    {
+      "name": "Algorithms",
+      "endorsements": "0"
+    },
+    {
+      "name": "Product Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "Software Documentation",
+      "endorsements": "0"
+    },
+    {
+      "name": "Shell Scripting",
+      "endorsements": "0"
+    },
+    {
+      "name": "Software Engineering",
+      "endorsements": "0"
+    },
+    {
+      "name": "Software Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "iOS Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "User Interface Design",
+      "endorsements": "0"
+    },
+    {
+      "name": "OS X",
+      "endorsements": "0"
+    },
+    {
+      "name": "iOS",
+      "endorsements": "0"
+    },
+    {
+      "name": "Operating Systems",
+      "endorsements": "0"
+    },
+    {
+      "name": "Unix",
+      "endorsements": "0"
+    },
+    {
+      "name": "SQL",
+      "endorsements": "0"
+    },
+    {
+      "name": "SQLite",
+      "endorsements": "0"
+    },
+    {
+      "name": "Delphi",
+      "endorsements": "0"
+    },
+    {
+      "name": "Device Drivers",
+      "endorsements": "0"
+    },
+    {
+      "name": "Bash",
+      "endorsements": "0"
+    },
+    {
+      "name": "Firmware",
+      "endorsements": "0"
+    },
+    {
+      "name": "Xcode",
+      "endorsements": "0"
+    },
+    {
+      "name": "Mac OS X",
+      "endorsements": "0"
+    },
+    {
+      "name": "Windows",
+      "endorsements": "0"
+    },
+    {
+      "name": "Linux",
+      "endorsements": "0"
+    },
+    {
+      "name": "x86 Assembly",
+      "endorsements": "0"
+    },
+    {
+      "name": "Networking",
+      "endorsements": "0"
+    },
+    {
+      "name": "Kernel Drivers",
+      "endorsements": "0"
+    },
+    {
+      "name": "Client-server Application Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "System Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "GUI",
+      "endorsements": "0"
+    },
+    {
+      "name": "POSIX",
+      "endorsements": "0"
+    },
+    {
+      "name": "Windows software development",
+      "endorsements": "0"
+    },
+    {
+      "name": "Qt",
+      "endorsements": "0"
+    },
+    {
+      "name": "USB",
+      "endorsements": "0"
+    },
+    {
+      "name": "CUPS",
+      "endorsements": "0"
+    },
+    {
+      "name": "AppleScript",
+      "endorsements": "0"
+    },
+    {
+      "name": "Cocoa",
+      "endorsements": "0"
+    },
+    {
+      "name": "Mac OS",
+      "endorsements": "0"
+    }
+  ],
+  "allSkills": "C++, C, Objective-C, Distributed Systems, Algorithms, Product Development, Software Documentation, Shell Scripting, Software Engineering, Software Development, iOS Development, User Interface Design, OS X, iOS, Operating Systems, Unix, SQL, SQLite, Delphi, Device Drivers, Bash, Firmware, Xcode, Mac OS X, Windows, Linux, x86 Assembly, Networking, Kernel Drivers, Client-server Application Development, System Development, GUI, POSIX, Windows software development, Qt, USB, CUPS, AppleScript, Cocoa, Mac OS",
+  "query": "https://www.linkedin.com/in/yuri-z-aa182781/"
+}

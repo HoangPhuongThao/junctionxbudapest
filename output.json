@@ -1,0 +1,234 @@
+{
+  "general": [
+    {
+      "fullName": "Yuri Z.",
+      "headline": "macOS System Software Engineer",
+      "company": "Contractor",
+      "location": "Ukraine",
+      "keyPhrases": [
+        "iOS Developer",
+        "Mac OS",
+        "years of experience"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "companyName": "Contractor",
+      "jobTitle": "Contractor",
+      "dateRange": "Jan 2010 \u2013 Present",
+      "location": "",
+      "keyPhrases": [
+        "Network drivers",
+        "Bluetooth device drivers",
+        "Windows desktop applications",
+        "iOS apps",
+        "applications development",
+        "video playback",
+        "undocumented APIs",
+        "USB",
+        "reverse engineering",
+        "client-server",
+        "UI design",
+        "Audio Units",
+        "apps' plugins",
+        "Software"
+      ]
+    },
+    {
+      "companyName": "Apple",
+      "jobTitle": "Software Engineer",
+      "dateRange": "Jan 2018 \u2013 Jun 2019",
+      "location": "Prague, The Capital, Czech Republic",
+      "keyPhrases": [
+        "Visual Experience",
+        "Core OS"
+      ]
+    },
+    {
+      "companyName": "Apple",
+      "jobTitle": "Software Engineering Intern",
+      "dateRange": "Jun 2013 \u2013 Sep 2013",
+      "location": "San Francisco Bay Area",
+      "keyPhrases": [
+        "Apple Senior Vice President",
+        "project",
+        "Networking",
+        "Software"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "schoolName": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'\u200b",
+      "degree": "Master's degree",
+      "degreeSpec": "Computational and Applied Mathematics",
+      "dateRange": "",
+      "keyPhrases": ""
+    }
+  ],
+  "skills": [
+    [
+      {
+        "name": "C++",
+        "endorsements": "0"
+      },
+      {
+        "name": "C",
+        "endorsements": "0"
+      },
+      {
+        "name": "Objective-C",
+        "endorsements": "0"
+      },
+      {
+        "name": "Distributed Systems",
+        "endorsements": "0"
+      },
+      {
+        "name": "Algorithms",
+        "endorsements": "0"
+      },
+      {
+        "name": "Product Development",
+        "endorsements": "0"
+      },
+      {
+        "name": "Software Documentation",
+        "endorsements": "0"
+      },
+      {
+        "name": "Shell Scripting",
+        "endorsements": "0"
+      },
+      {
+        "name": "Software Engineering",
+        "endorsements": "0"
+      },
+      {
+        "name": "Software Development",
+        "endorsements": "0"
+      },
+      {
+        "name": "iOS Development",
+        "endorsements": "0"
+      },
+      {
+        "name": "User Interface Design",
+        "endorsements": "0"
+      },
+      {
+        "name": "OS X",
+        "endorsements": "0"
+      },
+      {
+        "name": "iOS",
+        "endorsements": "0"
+      },
+      {
+        "name": "Operating Systems",
+        "endorsements": "0"
+      },
+      {
+        "name": "Unix",
+        "endorsements": "0"
+      },
+      {
+        "name": "SQL",
+        "endorsements": "0"
+      },
+      {
+        "name": "SQLite",
+        "endorsements": "0"
+      },
+      {
+        "name": "Delphi",
+        "endorsements": "0"
+      },
+      {
+        "name": "Device Drivers",
+        "endorsements": "0"
+      },
+      {
+        "name": "Bash",
+        "endorsements": "0"
+      },
+      {
+        "name": "Firmware",
+        "endorsements": "0"
+      },
+      {
+        "name": "Xcode",
+        "endorsements": "0"
+      },
+      {
+        "name": "Mac OS X",
+        "endorsements": "0"
+      },
+      {
+        "name": "Windows",
+        "endorsements": "0"
+      },
+      {
+        "name": "Linux",
+        "endorsements": "0"
+      },
+      {
+        "name": "x86 Assembly",
+        "endorsements": "0"
+      },
+      {
+        "name": "Networking",
+        "endorsements": "0"
+      },
+      {
+        "name": "Kernel Drivers",
+        "endorsements": "0"
+      },
+      {
+        "name": "Client-server Application Development",
+        "endorsements": "0"
+      },
+      {
+        "name": "System Development",
+        "endorsements": "0"
+      },
+      {
+        "name": "GUI",
+        "endorsements": "0"
+      },
+      {
+        "name": "POSIX",
+        "endorsements": "0"
+      },
+      {
+        "name": "Windows software development",
+        "endorsements": "0"
+      },
+      {
+        "name": "Qt",
+        "endorsements": "0"
+      },
+      {
+        "name": "USB",
+        "endorsements": "0"
+      },
+      {
+        "name": "CUPS",
+        "endorsements": "0"
+      },
+      {
+        "name": "AppleScript",
+        "endorsements": "0"
+      },
+      {
+        "name": "Cocoa",
+        "endorsements": "0"
+      },
+      {
+        "name": "Mac OS",
+        "endorsements": "0"
+      }
+    ]
+  ]
+}
