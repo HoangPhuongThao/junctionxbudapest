@@ -1,0 +1,308 @@
+{
+  "general": {
+    "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "fullName": "Bernd Verst",
+    "headline": "Developer Advocate, Software Engineer - Microsoft Azure Cloud",
+    "company": "Microsoft",
+    "location": "Greater Seattle Area",
+    "connections": "500+ connections",
+    "profileUrl": "https://www.linkedin.com/in/verst/#",
+    "connectionDegree": "3rd",
+    "vmid": "ACoAAAIvUd8BQIlV7CzOvZ2vL_loH1MQDA0h38c",
+    "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAIvUd8BQIlV7CzOvZ2vL_loH1MQDA0h38c,name",
+    "description": "Bernd is a Product Manager, Developer Advocate and Software Engineer with over 10 years of experience in cloud computing. As a technology evangelist Bernd uniquely combines technical rigor, attention to detail, creativity, enthusiam for technology, passion for people, teaching & mentorship, public speaking, and cross-cultural awareness.At Microsoft, Bernd is part of the Azure Cloud team and currently holds the position of Cloud Developer Advocate specializing in Linux, Containers, Python and open source software. In this capacity Bernd not only works with product and engineering teams within Microsoft to create a world-class developer experience, but also travels to conferences and events domestic and abroad to reach as many software engineers as possible through presentations and conversations.Bernd joined Microsoft from the U.S. Federal Government where he worked on the 18F innovation team under former president Obama to create modern cloud computing technology infrastructure for the government. Other positions he held include roles at Google on the Google Cloud Platform team, at Twitter on advertising technology infrastructure and partnerships, and positions at several startups (for example in the financial fraud detection space).As a dual citizen (Germany & US) - a native of Germany and adult immigrant to the US - and having had extensive experiences abroad including a several months long stay in China, Bernd is well-versed in cross-cultural awareness and communication. This makes Bernd a natural international leader - a bridge between cultures.Bernd's personal interests extend beyond technology and include career mentorship, jazz piano, distance running, Chinese culture and language. He is a native speaker of German, has native-level proficiency in English, understands spoken Dutch, and is making good progress on learning Mandarin Chinese.",
+    "firstName": "Bernd",
+    "lastName": "Verst"
+  },
+  "jobs": [
+    {
+      "companyName": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft/",
+      "jobTitle": "Cloud Developer Advocate",
+      "dateRange": "Mar 2017 – Present",
+      "location": "Greater Seattle Area",
+      "description": "The mission of the Cloud Developer Advocacy team is to win the hearts and minds of Developers and IT Operators to secure the future of the Microsoft Azure platform. The Cloud Developer Advocacy team is first and foremost pivoted on enabling a healthy ecosystem for technical communities targeting Azure.\n\nAs a key stakeholder for the overall developer experience I am embedded into several product and engineering teams across the vast IaaS and PaaS developer offerings of the Microsoft Azure cloud.\n\nMy technology focus is on Linux, Containers (in particular the Kubernetes orchestrator), and Python. As of the beginning of 2019 I have a somewhat generalist charter with focus on the academic field -- students, faculty and researchers."
+    },
+    {
+      "companyName": "GSA",
+      "companyUrl": "https://www.linkedin.com/company/gsa/",
+      "jobTitle": "Innovation Specialist at 18F",
+      "dateRange": "Jul 2016 – Jan 2017",
+      "location": "San Francisco Bay Area",
+      "description": "18F is a civic consultancy for the government, inside the government, working with agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. Our goal is to change how the government buys and develops digital services by helping agencies adopt modern techniques that deliver superior products.\n\nWe are transforming government from the inside out, creating cultural change by working with teams inside agencies who want to create great services for the public.\nOn the Products and Platforms team we incubate high-demand products and platforms for the Office of Citizen Services and Innovative Technology (OCSIT) to scale and institutionalize across government.\n\nJob Description:\nAs an Innovation Specialist, the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high-quality, user-centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government.\n\nMore specifically, I am the technical account manager / solutions engineer for cloud.gov, a platform-as-a-service for government agency developers. I handle everything from sales engineering, interagency contracts, internal tools development and business operations to developer support and onboarding."
+    },
+    {
+      "companyName": "Nylas",
+      "companyUrl": "https://www.linkedin.com/company/nylas/",
+      "jobTitle": "Product Engineer",
+      "dateRange": "Feb 2016 – Apr 2016",
+      "location": "San Francisco Bay Area",
+      "description": "Nylas removes the pain of integrating your app with email, contacts, and calendars. It’s a modern developer platform that lets you ship faster with fewer bugs.\nWe connect to Microsoft Exchange, ActiveSync, IMAP, SMTP, and MIME for you. Create awesome apps that work for all users with just one API.\nNylas is also the creator of N1, an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it's easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine which is also open source free software."
+    },
+    {
+      "companyName": "Intensive Chinese Language Program in Shanghai",
+      "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Intensive%20Chinese%20Language%20Program%20in%20Shanghai",
+      "jobTitle": "Student",
+      "dateRange": "Oct 2015 – Dec 2015",
+      "location": "Shanghai City, China",
+      "description": "Intensive 10-week Mandarin Chinese Course (30 hours per week) at Mandarin House Chinese School in Shanghai's Peoples' Square.\n\nWhile in Shanghai I learned about the local business climate and attended several meetups in the local developer community."
+    },
+    {
+      "companyName": "Twitter",
+      "companyUrl": "https://www.linkedin.com/company/twitter/",
+      "jobTitle": "Partner Engineer, Ads Platform",
+      "dateRange": "Sep 2014 – Oct 2015",
+      "location": "San Francisco Bay Area",
+      "description": "- Work with Business Development and partners to launch Twitter Ads Platform integrations.\n- Triage incoming support needs from strategic partners.\n- Coordinate escalation and resolution efforts between different engineering teams.\n- Act as liaison between external developers and Twitter’s Product and Engineering teams.\n- Synthesize and deliver product insights from partner and community interactions.\n- Create materials to help people implement our Ads platform, APIs and SDKs with ease, including docs, blog posts, and sample apps.\n- Speak at external events, including conferences, hackathons and meetups.\n- Grow adoption of Twitter’s platform among mobile developers, working with existing developer communities and building/defining a shared identity as “Twitter developers”"
+    },
+    {
+      "companyName": "Sift Science",
+      "companyUrl": "https://www.linkedin.com/company/getsift/",
+      "jobTitle": "Solutions Engineer",
+      "dateRange": "Sep 2013 – Sep 2014",
+      "location": "San Francisco Bay Area",
+      "description": "- Advocate and build a developer community around the product.\n- Maintain and improve APIs, API clients and related documentation.\n- Guide customers through the integration lifecycle; provide software architecture, workflow and data recommendation to customers.\n- Develop and implement processes to scale the customer success team\n- Build a customer support platform and resolve customer issues.\n- Development of internal business and support tools."
+    },
+    {
+      "companyName": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google/",
+      "jobTitle": "Technical Solutions Engineer - Cloud Platform",
+      "dateRange": "Aug 2012 – Aug 2013",
+      "location": "San Francisco Bay Area",
+      "description": "Provide developer and technical support and resolve customer cases for Google's Enterprise cloud products, solutions and APIs, including debugging AppEngine, Cloud Storage, Cloud SQL, Compute Engine and Big Query applications, authoring documentation and code samples, and handling system configuration.\nIdentify and document AppEngine, Cloud Storage, Cloud SQL, Compute Engine and Big Query bugs and feature requests and work with engineers and customers to implement effective solutions.\nWork closely with engineers, product managers and sales engineers to improve Google cloud products at a senior level, suggesting and making changes to the product code.\n\nExample: I helped Snapchat (running on Google App Engine) optimize their application logic for datastore read latency, greatly improving application performance whilst reducing cost."
+    },
+    {
+      "companyName": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google/",
+      "jobTitle": "Technical Specialist, Google Apps",
+      "dateRange": "Jul 2011 – Aug 2012",
+      "location": "Mountain View, CA",
+      "description": "• Act as key technical support contact for Fortune 5000 corporations as well as top universities and government clients.\n• Deliver technical solutions through one-to-one communication over email and phone, effective prioritization, data analysis, and dedication to providing a world-class user experience.\n• Troubleshoot technical issues, escalate bug reports, proactively identify customer needs and work with Product Management and Engineering to improve the product.\n• Develop and implement processes and infrastructure to scale our customer-facing operations.\n\nEmail delivery/routing, spam & abuse specialist; Develop support tools/applications; Create programs to scale support operations.\n\nAct as escalation manager and technical support lead for issues affecting all Enterprise Gmail customers on weekends (through on-call coverage).\n\nGovCloud certified - completed background screening to support Google Apps for Government customers"
+    },
+    {
+      "companyName": "Mandli Communications",
+      "companyUrl": "https://www.linkedin.com/company/mandli-communications/",
+      "jobTitle": "Computer Systems Analyst & Support Specialist",
+      "dateRange": "Jun 2009 – Jul 2011",
+      "location": null,
+      "description": "Prepare company production software and data sets for clients and integrate them with their Geographic Information Systems (GIS) and computer networks. Responsible for providing training, customer service and support  to company customers. Responsible for final acceptance test, software updates and releases of Roadview7 workstation software. Development of internal tools for data QA/QC. Established and now manage the onsite AppleCare Service program."
+    }
+  ],
+  "schools": [
+    {
+      "schoolUrl": "https://www.linkedin.com/school/19967/?legacySchoolId=19967",
+      "schoolName": "Macalester College",
+      "degree": "B.A.",
+      "degreeSpec": "Mathematics, Computer Science",
+      "dateRange": "2005 – 2009",
+      "description": "Cumulative GPA: 3.89/4.0Graduated Magna Cum Laude, 2009Phi Beta Kappa, inducted spring 2009Ezra Camp Award for Outstanding Service to the Math/CS DepartmentMulticulturalism Award - for committed service to social justice, 2009Dean's List 2005 - 2009Kofi Annan International Scholarship 2005 - 2009Pi Mu Epsilon (Mathematics Honor Society) - inducted spring 2007, officer 2008Upsilon Pi Epsilon (Computer Science Honor Society) - inducted spring 2008Faculty Search Committee MemberAmerican Mathematical Society Membership - awarded by Macalester Math Dept.Association for Computing Machinery Member"
+    }
+  ],
+  "details": {
+    "linkedinProfile": "https://www.linkedin.com/in/verst"
+  },
+  "skills": [
+    {
+      "name": "Python",
+      "endorsements": "20"
+    },
+    {
+      "name": "Java",
+      "endorsements": "12"
+    },
+    {
+      "name": "MySQL",
+      "endorsements": "11"
+    },
+    {
+      "name": "Web Applications",
+      "endorsements": "5"
+    },
+    {
+      "name": "Product Management",
+      "endorsements": "4"
+    },
+    {
+      "name": "Software Engineering",
+      "endorsements": "1"
+    },
+    {
+      "name": "Unit Testing",
+      "endorsements": "0"
+    },
+    {
+      "name": "Reporting & Analysis",
+      "endorsements": "0"
+    },
+    {
+      "name": "Incident Management",
+      "endorsements": "0"
+    },
+    {
+      "name": "Web Services",
+      "endorsements": "0"
+    },
+    {
+      "name": "Agile Project Management",
+      "endorsements": "0"
+    },
+    {
+      "name": "Software Quality Assurance",
+      "endorsements": "0"
+    },
+    {
+      "name": "User Interface Design",
+      "endorsements": "0"
+    },
+    {
+      "name": "Technical Documentation",
+      "endorsements": "0"
+    },
+    {
+      "name": "System Administration",
+      "endorsements": "0"
+    },
+    {
+      "name": "SQL",
+      "endorsements": "7"
+    },
+    {
+      "name": "Google Apps",
+      "endorsements": "6"
+    },
+    {
+      "name": "SaaS",
+      "endorsements": "6"
+    },
+    {
+      "name": "Matlab",
+      "endorsements": "2"
+    },
+    {
+      "name": "Mac OS X",
+      "endorsements": "1"
+    },
+    {
+      "name": "Hadoop",
+      "endorsements": "0"
+    },
+    {
+      "name": "MapReduce",
+      "endorsements": "0"
+    },
+    {
+      "name": "Amazon Web Services",
+      "endorsements": "0"
+    },
+    {
+      "name": "NoSQL",
+      "endorsements": "0"
+    },
+    {
+      "name": "MongoDB",
+      "endorsements": "0"
+    },
+    {
+      "name": "Scala",
+      "endorsements": "0"
+    },
+    {
+      "name": "Linux",
+      "endorsements": "0"
+    },
+    {
+      "name": "PostgreSQL",
+      "endorsements": "0"
+    },
+    {
+      "name": "Developer Relations",
+      "endorsements": "0"
+    },
+    {
+      "name": "Product Engineering",
+      "endorsements": "0"
+    },
+    {
+      "name": "Technical Presentations",
+      "endorsements": "0"
+    },
+    {
+      "name": "IaaS",
+      "endorsements": "0"
+    },
+    {
+      "name": "Google App Engine",
+      "endorsements": "0"
+    },
+    {
+      "name": "Developer Tools",
+      "endorsements": "0"
+    },
+    {
+      "name": "HTTP",
+      "endorsements": "0"
+    },
+    {
+      "name": "EC2",
+      "endorsements": "0"
+    },
+    {
+      "name": "PaaS",
+      "endorsements": "0"
+    },
+    {
+      "name": "Customer Advocacy",
+      "endorsements": "0"
+    },
+    {
+      "name": "RFC",
+      "endorsements": "0"
+    },
+    {
+      "name": "Web Servers",
+      "endorsements": "0"
+    },
+    {
+      "name": "W3C",
+      "endorsements": "0"
+    },
+    {
+      "name": "Cloud Storage",
+      "endorsements": "0"
+    },
+    {
+      "name": "Application Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "Kubernetes",
+      "endorsements": "0"
+    },
+    {
+      "name": "Chinese Culture",
+      "endorsements": "0"
+    },
+    {
+      "name": "Big Data Analytics",
+      "endorsements": "0"
+    },
+    {
+      "name": "Serverless Computing",
+      "endorsements": "0"
+    },
+    {
+      "name": "SDK development",
+      "endorsements": "0"
+    },
+    {
+      "name": "API Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "Technology Consulting",
+      "endorsements": "0"
+    }
+  ],
+  "allSkills": "Python, Java, MySQL, Web Applications, Product Management, Software Engineering, Unit Testing, Reporting & Analysis, Incident Management, Web Services, Agile Project Management, Software Quality Assurance, User Interface Design, Technical Documentation, System Administration, SQL, Google Apps, SaaS, Matlab, Mac OS X, Hadoop, MapReduce, Amazon Web Services, NoSQL, MongoDB, Scala, Linux, PostgreSQL, Developer Relations, Product Engineering, Technical Presentations, IaaS, Google App Engine, Developer Tools, HTTP, EC2, PaaS, Customer Advocacy, RFC, Web Servers, W3C, Cloud Storage, Application Development, Kubernetes, Chinese Culture, Big Data Analytics, Serverless Computing, SDK development, API Development, Technology Consulting",
+  "query": "https://www.linkedin.com/in/verst/"
+}

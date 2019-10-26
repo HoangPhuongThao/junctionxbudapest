@@ -1,0 +1,169 @@
+{
+  "general": {
+    "imgUrl": "https://media.licdn.com/dms/image/C4D03AQEMLxr-XA6S9w/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=fH3CX7gDHvnVmvJk2xS197vqTAaFKN-6OxuegfYRgTs",
+    "fullName": "Martin Šimeček",
+    "headline": "Software Engineer at Microsoft | Public speaker | Technical writer | Podcaster",
+    "company": "Microsoft",
+    "location": "Prague, The Capital, Czech Republic",
+    "connections": "338 connections",
+    "profileUrl": "https://www.linkedin.com/in/msimecek/#",
+    "connectionDegree": "2nd",
+    "vmid": "ACoAAAeu89kBq8CH3PxxbXCXqfcO3pk-Ti8PHHs",
+    "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAeu89kBq8CH3PxxbXCXqfcO3pk-Ti8PHHs,name",
+    "description": "",
+    "subscribers": "342",
+    "firstName": "Martin",
+    "lastName": "Šimeček"
+  },
+  "jobs": [
+    {
+      "companyName": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft/",
+      "jobTitle": "Software Engineer",
+      "dateRange": "Jul 2018 – Present",
+      "location": "Prague, The Capital, Czech Republic",
+      "description": "As part of a global team I have the ultimate goal of helping developers around the planet to achieve more. I spend most of my time working on innovative and transformational projects with customers & partners, but my work doesn’t end with handing the source code over. I ship when I share. Most of the projects I work on end on GitHub as open-source, for everyone to use. \n\nWorked on consumer & enterprise chatbots (with NLP), speech to text pipelines for broadcasters, advanced search, realtime conference translations from english to multiple languages etc.\n\nAnd I also speak about Microsoft technology at meetups and conferences."
+    },
+    {
+      "companyName": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft/",
+      "jobTitle": "Technical Evangelist",
+      "dateRange": "Jul 2014 – Jun 2018",
+      "location": "Prague, The Capital, Czech Republic",
+      "description": "Helping developers around Central & Eastern Europe to use Microsoft's newest\n      technologies successfuly in their projects.\n      \n\n    \n      \n\n    \n      Coding, hacking, speaking, shooting videos, podcasting..."
+    },
+    {
+      "companyName": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft/",
+      "jobTitle": "Associate Consultant",
+      "dateRange": "Mar 2013 – Jul 2014",
+      "location": "Prague, The Capital, Czech Republic",
+      "description": null
+    },
+    {
+      "companyName": "Programujte.com",
+      "companyUrl": "https://www.linkedin.com/company/programujte-com/",
+      "jobTitle": "Proofreader, editor",
+      "dateRange": "Oct 2008 – 2016",
+      "location": null,
+      "description": "My responsibilities include: correcting typographic and grammar errors, discussing and\n      \n      commenting others' work, writing own articles."
+    },
+    {
+      "companyName": "systea s.r.o.",
+      "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=systea%20s.r.o.",
+      "jobTitle": "Analyst, developer",
+      "dateRange": "May 2011 – Feb 2013",
+      "location": "Prague, Czech Republic",
+      "description": "System analysis,\n      \n\n    RIAs in Adobe Flex,\n      \n\n    Websites in HTML + CSS,\n      \n\n    \n      desktop applications in .NET."
+    }
+  ],
+  "schools": [
+    {
+      "schoolUrl": "https://www.linkedin.com/school/11716/?legacySchoolId=11716",
+      "schoolName": "Vysoká škola ekonomická v Praze",
+      "degree": "Master",
+      "degreeSpec": "Information systems and technologies",
+      "dateRange": "2010 – 2013",
+      "description": "Minor specialization: Manageral psychology and sociology"
+    },
+    {
+      "schoolUrl": "https://www.linkedin.com/school/11715/?legacySchoolId=11715",
+      "schoolName": "Vysoká škola chemicko-technologická v Praze",
+      "degree": "Bachelor",
+      "degreeSpec": "Engineering informatics",
+      "dateRange": "2007 – 2010"
+    }
+  ],
+  "details": {
+    "linkedinProfile": "https://www.linkedin.com/in/msimecek",
+    "websites": "deedx.cz"
+  },
+  "skills": [
+    {
+      "name": "Programming",
+      "endorsements": "11"
+    },
+    {
+      "name": "Public Speaking",
+      "endorsements": "1"
+    },
+    {
+      "name": "Microsoft Azure",
+      "endorsements": "1"
+    },
+    {
+      "name": "Writing",
+      "endorsements": "5"
+    },
+    {
+      "name": "Translation",
+      "endorsements": "4"
+    },
+    {
+      "name": "Cloud Computing",
+      "endorsements": "2"
+    },
+    {
+      "name": "Proofreading",
+      "endorsements": "2"
+    },
+    {
+      "name": "Software Development",
+      "endorsements": "0"
+    },
+    {
+      "name": "Windows Azure",
+      "endorsements": "7"
+    },
+    {
+      "name": "Office 365",
+      "endorsements": "2"
+    },
+    {
+      "name": "C#",
+      "endorsements": "0"
+    },
+    {
+      "name": ".NET Framework",
+      "endorsements": "0"
+    },
+    {
+      "name": "Lecturing",
+      "endorsements": "5"
+    },
+    {
+      "name": "Bots",
+      "endorsements": "1"
+    },
+    {
+      "name": "Attention to Detail",
+      "endorsements": "4"
+    },
+    {
+      "name": "Coordination",
+      "endorsements": "3"
+    },
+    {
+      "name": "Podcasting",
+      "endorsements": "1"
+    },
+    {
+      "name": "Chatbots",
+      "endorsements": "1"
+    },
+    {
+      "name": "microsoft Graph",
+      "endorsements": "0"
+    },
+    {
+      "name": "Speech Recognition",
+      "endorsements": "0"
+    },
+    {
+      "name": "Text Analytics",
+      "endorsements": "0"
+    }
+  ],
+  "allSkills": "Programming, Public Speaking, Microsoft Azure, Writing, Translation, Cloud Computing, Proofreading, Software Development, Windows Azure, Office 365, C#, .NET Framework, Lecturing, Bots, Attention to Detail, Coordination, Podcasting, Chatbots, microsoft Graph, Speech Recognition, Text Analytics",
+  "query": "https://www.linkedin.com/in/msimecek/"
+}

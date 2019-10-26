@@ -1,232 +1,217 @@
 {
   "general": [
     {
-      "fullName": "Yuri Z.",
-      "headline": "macOS System Software Engineer",
-      "company": "Contractor",
-      "location": "Ukraine",
-      "keyPhrases": [
-        "iOS Developer",
-        "Mac OS",
-        "years of experience"
-      ]
+      "fullName": "Martin \u0160ime\u010dek",
+      "headline": "Software Engineer at Microsoft | Public speaker | Technical writer | Podcaster",
+      "company": "Microsoft",
+      "location": "Prague, The Capital, Czech Republic",
+      "keyPhrases": ""
     }
   ],
   "jobs": [
     {
-      "companyName": "Contractor",
-      "jobTitle": "Contractor",
-      "dateRange": "Jan 2010 \u2013 Present",
-      "location": "",
-      "keyPhrases": [
-        "Network drivers",
-        "Bluetooth device drivers",
-        "Windows desktop applications",
-        "iOS apps",
-        "applications development",
-        "video playback",
-        "undocumented APIs",
-        "USB",
-        "reverse engineering",
-        "client-server",
-        "UI design",
-        "Audio Units",
-        "apps' plugins",
-        "Software"
-      ]
-    },
-    {
-      "companyName": "Apple",
+      "companyName": "Microsoft",
       "jobTitle": "Software Engineer",
-      "dateRange": "Jan 2018 \u2013 Jun 2019",
+      "dateRange": "Jul 2018 \u2013 Present",
       "location": "Prague, The Capital, Czech Republic",
       "keyPhrases": [
-        "Visual Experience",
-        "Core OS"
+        "end",
+        "work",
+        "transformational projects",
+        "open-source",
+        "source code",
+        "advanced search",
+        "realtime conference translations",
+        "broadcasters",
+        "NLP",
+        "text pipelines",
+        "speech",
+        "customers",
+        "ultimate goal",
+        "multiple languages",
+        "partners",
+        "GitHub",
+        "enterprise chatbots",
+        "Microsoft technology",
+        "meetups",
+        "conferences",
+        "developers",
+        "global team",
+        "consumer",
+        "planet"
       ]
     },
     {
-      "companyName": "Apple",
-      "jobTitle": "Software Engineering Intern",
-      "dateRange": "Jun 2013 \u2013 Sep 2013",
-      "location": "San Francisco Bay Area",
+      "companyName": "Microsoft",
+      "jobTitle": "Technical Evangelist",
+      "dateRange": "Jul 2014 \u2013 Jun 2018",
+      "location": "Prague, The Capital, Czech Republic",
       "keyPhrases": [
-        "Apple Senior Vice President",
-        "project",
-        "Networking",
-        "Software"
+        "Eastern Europe",
+        "Microsoft's newest",
+        "developers",
+        "hacking",
+        "videos",
+        "technologies",
+        "projects",
+        "Coding",
+        "podcasting"
+      ]
+    },
+    {
+      "companyName": "Microsoft",
+      "jobTitle": "Associate Consultant",
+      "dateRange": "Mar 2013 \u2013 Jul 2014",
+      "location": "Prague, The Capital, Czech Republic",
+      "keyPhrases": [
+        "Eastern Europe",
+        "Microsoft's newest",
+        "developers",
+        "hacking",
+        "videos",
+        "technologies",
+        "projects",
+        "Coding",
+        "podcasting"
+      ]
+    },
+    {
+      "companyName": "Programujte.com",
+      "jobTitle": "Proofreader, editor",
+      "dateRange": "Oct 2008 \u2013 2016",
+      "location": "Prague, The Capital, Czech Republic",
+      "keyPhrases": [
+        "grammar errors",
+        "others' work",
+        "articles",
+        "responsibilities"
+      ]
+    },
+    {
+      "companyName": "systea s.r.o.",
+      "jobTitle": "Analyst, developer",
+      "dateRange": "May 2011 \u2013 Feb 2013",
+      "location": "Prague, Czech Republic",
+      "keyPhrases": [
+        "Adobe Flex",
+        "CSS",
+        "desktop applications",
+        ".NET",
+        "RIAs",
+        "Websites",
+        "HTML",
+        "System analysis"
       ]
     }
   ],
   "schools": [
     {
-      "schoolName": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'\u200b",
-      "degree": "Master's degree",
-      "degreeSpec": "Computational and Applied Mathematics",
-      "dateRange": "",
-      "keyPhrases": ""
+      "schoolName": "Vysok\u00e1 \u0161kola ekonomick\u00e1 v Praze",
+      "degree": "Master",
+      "degreeSpec": "Information systems and technologies",
+      "dateRange": "2010 \u2013 2013",
+      "keyPhrases": [
+        "Manageral psychology",
+        "sociology",
+        "Minor specialization"
+      ]
+    },
+    {
+      "schoolName": "Vysok\u00e1 \u0161kola chemicko-technologick\u00e1 v Praze",
+      "degree": "Bachelor",
+      "degreeSpec": "Engineering informatics",
+      "dateRange": "2007 \u2013 2010",
+      "keyPhrases": [
+        "Manageral psychology",
+        "sociology",
+        "Minor specialization"
+      ]
     }
   ],
   "skills": [
     [
       {
-        "name": "C++",
-        "endorsements": "0"
+        "name": "Programming",
+        "endorsements": "11"
       },
       {
-        "name": "C",
-        "endorsements": "0"
+        "name": "Public Speaking",
+        "endorsements": "1"
       },
       {
-        "name": "Objective-C",
-        "endorsements": "0"
+        "name": "Microsoft Azure",
+        "endorsements": "1"
       },
       {
-        "name": "Distributed Systems",
-        "endorsements": "0"
+        "name": "Writing",
+        "endorsements": "5"
       },
       {
-        "name": "Algorithms",
-        "endorsements": "0"
+        "name": "Translation",
+        "endorsements": "4"
       },
       {
-        "name": "Product Development",
-        "endorsements": "0"
+        "name": "Cloud Computing",
+        "endorsements": "2"
       },
       {
-        "name": "Software Documentation",
-        "endorsements": "0"
-      },
-      {
-        "name": "Shell Scripting",
-        "endorsements": "0"
-      },
-      {
-        "name": "Software Engineering",
-        "endorsements": "0"
+        "name": "Proofreading",
+        "endorsements": "2"
       },
       {
         "name": "Software Development",
         "endorsements": "0"
       },
       {
-        "name": "iOS Development",
+        "name": "Windows Azure",
+        "endorsements": "7"
+      },
+      {
+        "name": "Office 365",
+        "endorsements": "2"
+      },
+      {
+        "name": "C#",
         "endorsements": "0"
       },
       {
-        "name": "User Interface Design",
+        "name": ".NET Framework",
         "endorsements": "0"
       },
       {
-        "name": "OS X",
+        "name": "Lecturing",
+        "endorsements": "5"
+      },
+      {
+        "name": "Bots",
+        "endorsements": "1"
+      },
+      {
+        "name": "Attention to Detail",
+        "endorsements": "4"
+      },
+      {
+        "name": "Coordination",
+        "endorsements": "3"
+      },
+      {
+        "name": "Podcasting",
+        "endorsements": "1"
+      },
+      {
+        "name": "Chatbots",
+        "endorsements": "1"
+      },
+      {
+        "name": "microsoft Graph",
         "endorsements": "0"
       },
       {
-        "name": "iOS",
+        "name": "Speech Recognition",
         "endorsements": "0"
       },
       {
-        "name": "Operating Systems",
-        "endorsements": "0"
-      },
-      {
-        "name": "Unix",
-        "endorsements": "0"
-      },
-      {
-        "name": "SQL",
-        "endorsements": "0"
-      },
-      {
-        "name": "SQLite",
-        "endorsements": "0"
-      },
-      {
-        "name": "Delphi",
-        "endorsements": "0"
-      },
-      {
-        "name": "Device Drivers",
-        "endorsements": "0"
-      },
-      {
-        "name": "Bash",
-        "endorsements": "0"
-      },
-      {
-        "name": "Firmware",
-        "endorsements": "0"
-      },
-      {
-        "name": "Xcode",
-        "endorsements": "0"
-      },
-      {
-        "name": "Mac OS X",
-        "endorsements": "0"
-      },
-      {
-        "name": "Windows",
-        "endorsements": "0"
-      },
-      {
-        "name": "Linux",
-        "endorsements": "0"
-      },
-      {
-        "name": "x86 Assembly",
-        "endorsements": "0"
-      },
-      {
-        "name": "Networking",
-        "endorsements": "0"
-      },
-      {
-        "name": "Kernel Drivers",
-        "endorsements": "0"
-      },
-      {
-        "name": "Client-server Application Development",
-        "endorsements": "0"
-      },
-      {
-        "name": "System Development",
-        "endorsements": "0"
-      },
-      {
-        "name": "GUI",
-        "endorsements": "0"
-      },
-      {
-        "name": "POSIX",
-        "endorsements": "0"
-      },
-      {
-        "name": "Windows software development",
-        "endorsements": "0"
-      },
-      {
-        "name": "Qt",
-        "endorsements": "0"
-      },
-      {
-        "name": "USB",
-        "endorsements": "0"
-      },
-      {
-        "name": "CUPS",
-        "endorsements": "0"
-      },
-      {
-        "name": "AppleScript",
-        "endorsements": "0"
-      },
-      {
-        "name": "Cocoa",
-        "endorsements": "0"
-      },
-      {
-        "name": "Mac OS",
+        "name": "Text Analytics",
         "endorsements": "0"
       }
     ]

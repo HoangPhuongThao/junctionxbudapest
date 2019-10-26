@@ -29,7 +29,7 @@ def checkProperties(input_dict, output_dict):
 
 def extract():
 
-    with open('./yuri.json', 'r') as f:
+    with open('./martin_microsoft.json', 'r') as f:
         parsed_json = json.load(f)
 
     profile = {}
